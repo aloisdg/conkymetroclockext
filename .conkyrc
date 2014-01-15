@@ -1,0 +1,50 @@
+# Conky Metro Clock Ext - https://github.com/aloisdg/conkymetroclockext
+# Conky Metro Clock - http://fav.me/d424h9d
+
+# Conky settings
+background no
+update_interval 1
+
+override_utf8_locale yes
+
+double_buffer yes
+no_buffers yes
+
+# Window specifications
+# Requiered in Nautilus
+own_window yes
+own_window_class conky
+own_window_transparent yes
+own_window_hints undecorate,below,sticky,skip_taskbar,skip_pager
+
+# Conky size
+# if you know how to automatize this, PM me.
+minimum_size 1280 5
+maximum_width 1280
+
+border_inner_margin 0
+border_outer_margin 0
+
+alignment bl
+gap_x 100
+gap_y 100
+
+# Graphics settings
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+
+# Text settings
+use_xft yes
+xftalpha 0
+xftfont Noto Sans:size=36
+text_buffer_size 2048
+
+uppercase no
+
+default_color FFFFFF
+
+TEXT
+${voffset 12}${font Noto Sans:size=96}${time %H:%M}${font}${voffset -12}
+${voffset 24}${font Noto Sans:size=36}${time %A}, ${time %B} ${time %e}${font}${voffset -12}
