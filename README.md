@@ -26,19 +26,26 @@ Date
 I change the layout of the date to match the original clock of Windows.
 
 [Windows 8 Clock](http://www.computertechworld.com/wp-content/uploads/2013/12/windows-8.1-new-lock-\
-screen-100040598-orig.png) [Metro Clock UI Clock](http://www.computertechworld.com/wp-content/uploads/2013/12/windows-8.1-new-lock-\
-screen-100040598-orig.png) [Metro Clock UI Ext Clock](https://github.com/aloisdg/conkymetroclockext#coming_soon)
+screen-100040598-orig.png)
+
+[Metro Clock UI Clock](http://www.computertechworld.com/wp-content/uploads/2013/12/windows-8.1-new-lock-\
+screen-100040598-orig.png)
+
+[Metro Clock UI Ext Clock](https://github.com/aloisdg/conkymetroclockext#coming_soon)
 
 Font
 ----
 
 I found Noto Sans more relevent to mimic Sego UI than Open Sans Light. 
 
-[Segoe UI](http://www.microsoft.com/typography/fonts/family.aspx?FID=331) [Open Sans](http://www.google.com/fonts/specimen/Open+Sans) [Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans) 
+[Segoe UI](http://www.microsoft.com/typography/fonts/family.aspx?FID=331)
+
+[Open Sans](http://www.google.com/fonts/specimen/Open+Sans)
+
+[Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans) 
 
 more here : 
-[Muli](http://www.fontsquirrel.com/fonts/muli) 
-[DejaVu]http://dejavu-fonts.org/wiki/Main_Page)
+[Muli](http://www.fontsquirrel.com/fonts/muli) [DejaVu](http://dejavu-fonts.org/wiki/Main_Page)
 
 ==================
 
