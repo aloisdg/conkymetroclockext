@@ -5,8 +5,6 @@ Conky Metro Clock Ext is a rewrite of the Conky Metro Clock.
 I decided to remake it to be closer to the version of WIndows 8.
 I hope you will enjoy it.
 
-=====================
-
 My work is based on the [Conky Metro Clock](http://satya164.deviantart.com/ar\
 t/Conky-Metro-Clock-245432929) by Satya164. Thanks to him.
 
