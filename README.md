@@ -45,6 +45,8 @@ I found Noto Sans more relevent to mimic Sego UI than Open Sans Light. What do y
 
 I like [Muli](http://www.fontsquirrel.com/fonts/muli) and [DejaVu](http://dejavu-fonts.org/wiki/Main_Page) too. Select your favorite !
 
+To display icon, I am using [FontAwesome](http://fortawesome.github.io/Font-Awesome/) by [Dave Gandy](https://twitter.com/davegandy). I think to change to [SteadySets](http://dribbble.com/shots/929153-Steady-set-of-icons) by [Tommy Sähl](http://dribbble.com/tommysahl). I am missing Segoe UI Symbol ... Do you know any good alternative ? I did not find an equivalent in [icomoon.io](http://icomoon.io/).
+
 ==================
 
 ToDo List
