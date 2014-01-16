@@ -13,10 +13,19 @@ t/Conky-Metro-Clock-245432929) by [Satya164](http://satya164.deviantart.com/). T
 Improvement
 -----------
 
+0.1
+
 * Wrote day of the week and month in a one line
 * Reversed order between hour and date
 * Switched to Noto Sans as default font
 * Modified margin to clean the display
+
+0.2
+
+* Added basic Wi-Fi Signal display
+* Added basic battery power display
+* Added basic volume percent display
+
 
 Date
 ----
@@ -30,7 +39,7 @@ screen-100040598-orig.png) vs [Metro Clock UI Ext Clock](https://github.com/aloi
 Font
 ----
 
-I found Noto Sans more relevent to mimic Sego UI than Open Sans Light. 
+I found Noto Sans more relevent to mimic Sego UI than Open Sans Light. What do you think ?
 
 [Segoe UI](http://www.microsoft.com/typography/fonts/family.aspx?FID=331) vs [Open Sans](http://www.google.com/fonts/specimen/Open+Sans) vs [Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans) 
 
@@ -41,8 +50,10 @@ I like [Muli](http://www.fontsquirrel.com/fonts/muli) and [DejaVu](http://dejavu
 ToDo List
 ---------
 
-* Add battery support
-* Add wifi support
-* Add volume support
+* Add battery support without percent but dynamic display
+* Add wifi support without percent but dynamic display
+* Add volume support without percent but dynamic display
 * Write a sh files to make the installation
-* Rename the project
+* Rename the project seriously
+* Add mail support maybe
+* Add rss support maybe
