@@ -46,6 +46,6 @@ uppercase no
 default_color FFFFFF
 
 TEXT
-${voffset 12}${font Noto Sans:size=96}${time %H:%M}${font}${voffset -12}
-${voffset 24}${font Noto Sans:size=36}${time %A}, ${time %B} ${time %e}${font}${voffset -12}
-${font FontAwesome:size=12} ${font}${voffset -36}${font Noto Sans:size=12}${wireless_link_qual_perc wlan0}%${font}  ${voffset -36}${font FontAwesome:size=12} ${font}${voffset -36}${font Noto Sans:size=12}${battery_percent}%${font}  ${voffset -36}${font FontAwesome:size=12} ${font}${voffset -36}${font Noto Sans:size=12}${exec amixer get Master | grep -oE "[[:digit:]]*%"}${font}
+${voffset 12}${font Noto Sans:size=120}${time %H:%M}${font}${voffset -12}
+${voffset 24}${font Noto Sans:size=48}${time %A}, ${time %B} ${time %e}${font}${voffset -12}
+${font FontAwesome:size=24} ${font}${voffset -24}${font Noto Sans:size=24}${wireless_link_qual_perc wlan0}%${font}  ${voffset -18}${font FontAwesome:size=24} ${font}${voffset -23}${font Noto Sans:size=24}${battery_percent}%${font}  ${voffset -18}${font FontAwesome:size=24} ${font}${voffset -24}${font Noto Sans:size=24}${exec amixer get Master | grep -oE "[[:digit:]]*%"}${font}

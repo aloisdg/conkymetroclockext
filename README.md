@@ -2,7 +2,7 @@ Conky Metro Clock Ext
 =====================
 
 Conky Metro Clock Ext is a rewrite of the Conky Metro Clock.
-I decided to remake it to be closer to the version of WIndows 8.
+I decided to remake it to be closer to the version of Windows 8.
 I hope you will enjoy it.
 
 My work is based on the [Conky Metro Clock](http://satya164.deviantart.com/ar\
@@ -13,19 +13,22 @@ t/Conky-Metro-Clock-245432929) by [Satya164](http://satya164.deviantart.com/). T
 Improvement
 -----------
 
-0.1
+0.1.0
 
 * Wrote day of the week and month in a one line
 * Reversed order between hour and date
 * Switched to Noto Sans as default font
 * Modified margin to clean the display
 
-0.2
+0.2.0
 
 * Added basic Wi-Fi Signal display
 * Added basic battery power display
 * Added basic volume percent display
 
+0.2.1
+
+* Increase the font-size of every element
 
 Date
 ----
