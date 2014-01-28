@@ -44,11 +44,11 @@ Font
 
 I found Noto Sans more relevent to mimic Sego UI than Open Sans Light. What do you think ?
 
-[Segoe UI](http://www.microsoft.com/typography/fonts/family.aspx?FID=331) vs [Open Sans](http://www.google.com/fonts/specimen/Open+Sans) vs [Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans) 
+[Segoe UI](http://www.microsoft.com/typography/fonts/family.aspx?FID=331) vs [Open Sans](http://www.google.com/fonts/specimen/Open+Sans) vs [Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans)
 
 I like [Muli](http://www.fontsquirrel.com/fonts/muli) and [DejaVu](http://dejavu-fonts.org/wiki/Main_Page) too. Select your favorite !
 
-To display icon, I am using [FontAwesome](http://fortawesome.github.io/Font-Awesome/) by [Dave Gandy](https://twitter.com/davegandy). I think to change to [SteadySets](http://dribbble.com/shots/929153-Steady-set-of-icons) by [Tommy Sähl](http://dribbble.com/tommysahl). I am missing Segoe UI Symbol ... Do you know any good alternative ? I did not find an equivalent in [icomoon.io](http://icomoon.io/).
+To display icon, I am using [FontAwesome](http://fortawesome.github.io/Font-Awesome/) by [Dave Gandy](https://twitter.com/davegandy). I think to change to [SteadySets](http://dribbble.com/shots/929153-Steady-set-of-icons) by [Tommy Sähl](http://shapemade.com/). Nice work isn't it ? :)
 
 ==================
 
@@ -59,6 +59,6 @@ ToDo List
 * Add wifi support without percent but dynamic display
 * Add volume support without percent but dynamic display
 * Write a sh files to make the installation
-* Rename the project seriously
+* Rename the project "seriously"
 * Add mail support maybe
 * Add rss support maybe
